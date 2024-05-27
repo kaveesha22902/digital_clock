@@ -1,6 +1,5 @@
 # Digital Clock with Python and Tkinter
 
-![Digital Clock](clock_screenshot.png)
 ![thumbnail](thumbnail.png)
 
 
@@ -26,16 +25,19 @@ This is a simple digital clock created using Python's Tkinter library. It displa
 
 
   ![Source_code](code_screenshot.png) 
-  ![file path](directory_screenshot.png) 
-
+ 
 
 2.Navigate to the project directory:
 
 ```bash
    cd digital-clock
 
+   ![file path](directory_screenshot.png) 
+
+
 3.run the script
    ```bash
    digitalclock.py
 
   
+![Digital Clock](clock_screenshot.png)
