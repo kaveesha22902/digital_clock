@@ -25,19 +25,23 @@ This is a simple digital clock created using Python's Tkinter library. It displa
 
 
   ![Source_code](code_screenshot.png) 
- 
-
 2.Navigate to the project directory:
 
-```bash
+``bash
    cd digital-clock
 
-   ![file path](directory_screenshot.png) 
 
 
-3.run the script
+![file path](directory_screenshot.png) 
+
+
+ 
+
+3.run the script:
+
+![Digital Clock](clock_screenshot.png)
    ```bash
    digitalclock.py
 
   
-![Digital Clock](clock_screenshot.png)
+
