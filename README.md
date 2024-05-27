@@ -1,6 +1,8 @@
 # Digital Clock with Python and Tkinter
 
 ![Digital Clock](clock_screenshot.png)
+![thumbnail](thumbnail.png)
+
 
 This is a simple digital clock created using Python's Tkinter library. It displays the current time in hours, minutes, seconds, and AM/PM format.
 
@@ -23,8 +25,8 @@ This is a simple digital clock created using Python's Tkinter library. It displa
    git clone https://github.com/kaveesha22902/digital_clock.git
 
 
-  [Source_code](code_screenshot.png) 
-  [file path](directory_screenshot.png) 
+  ![Source_code](code_screenshot.png) 
+  ![file path](directory_screenshot.png) 
 
 
 2.Navigate to the project directory:
