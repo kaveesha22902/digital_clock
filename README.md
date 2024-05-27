@@ -21,3 +21,6 @@ This is a simple digital clock created using Python's Tkinter library. It displa
 
    ```bash
    git clone https://github.com/kaveesha22902/digital_clock.git
+
+
+  [Source_code](code_screenshot.png) 
